@@ -1,0 +1,24 @@
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# LaTeX
+*.swp
+*.out
+*.log
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.gnuplot
+*.table
+*.toc
+*.nav
+*.snm
+*.vrb
+*.pdf
+*.run.xml
+*.synctex.gz
