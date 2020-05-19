@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="complexity.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective1912" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.2, 0.4;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 90.003011,16.567447 c 12.756669,-2.217884 20.929219,-2.379302 33.809599,0.601357"
+       id="path875-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path875-4"
+       d="m 90.003011,16.567447 c 12.756669,-2.217884 20.929219,-2.379302 33.809599,0.601357"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.2, 0.4;stroke-dashoffset:0;stroke-opacity:1" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="461.33377"
+     inkscape:cy="443.32729"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="846"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:object-paths="true"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-nodes="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="opacity:1;fill:#ffff00;fill-opacity:0.07725321;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path833"
+       cx="105.56902"
+       cy="166.60426"
+       rx="96.275749"
+       ry="119.9807" />
+    <path
+       style="opacity:1;fill:#0000ff;fill-opacity:0.07843137;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m 175.53787,142.85864 c 6.27575,19.85002 7.46936,47.38462 -0.009,70.90682 -1.2609,3.96608 -2.62401,7.83112 -4.40505,11.5121 -12.7487,26.34853 -35.95768,48.01258 -66.66517,48.05006 -8.218635,0.01 -15.920671,-2.10272 -23.083047,-5.38519 -13.826777,-6.33674 -25.521317,-17.65996 -34.189935,-30.883 -6.675715,-10.18308 -12.090626,-25.02094 -14.257842,-39.89116 -2.962522,-20.32715 -0.124343,-40.70456 11.396654,-49.24139 19.308223,-14.30702 44.318606,-8.79576 69.57645,-20.54496 22.61827,-10.52135 48.70046,-25.44038 61.63674,15.47672 z"
+       id="path1367-7-1-0-2-7-8-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssssssss" />
+    <path
+       style="opacity:1;fill:#ff0000;fill-opacity:0.07843137;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m 35.945235,142.98311 c -7.333905,23.19694 -6.2981,56.70665 5.121506,82.64594 11.011448,25.01218 36.597028,48.70514 65.968189,47.67081 25.9393,-0.91347 47.04658,-17.90712 60.68247,-41.41101 13.77606,-23.7455 19.95712,-67.54368 0.008,-82.32559 C 148.41702,135.25643 122.83983,139.25559 97.581969,127.50639 74.963707,116.98504 48.881516,102.06601 35.945235,142.98311 Z"
+       id="path1367-7-1-0-2-7-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssss" />
+    <path
+       style="opacity:1;fill:#0000ff;fill-opacity:0.11764706;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m 152.09742,151.40691 c -21.40923,-8.35873 -45.70459,21.0819 -78.732057,24.84604 -35.22725,4.01484 -34.8798,41.53617 -10.09711,67.44419 32.72048,34.20628 62.901927,23.6798 86.326317,-1.15701 23.40416,-24.81536 31.46177,-79.8269 2.50285,-91.13322 z"
+       id="path1367-7-1-0-9-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss" />
+    <path
+       style="opacity:1;fill:#ff0000;fill-opacity:0.11764706;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m 59.63299,151.44518 c 21.409228,-8.35872 45.7046,21.0819 78.73206,24.84604 35.22725,4.01484 34.87979,41.53617 10.09711,67.44419 -6.88973,7.20258 -13.76145,12.29844 -20.38666,15.81841 -24.83901,13.19699 -47.447585,2.63167 -65.939665,-16.97541 -23.40416,-24.81537 -31.461767,-79.8269 -2.502845,-91.13323 z"
+       id="path1367-7-1-0-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssss" />
+    <path
+       style="opacity:1;fill:#00ff00;fill-opacity:0.15686275;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.19607843;paint-order:normal"
+       d="m 78.399048,162.51968 c 13.239823,-4.43597 24.138912,9.00251 30.847162,17.99822 7.554,10.12984 29.99724,55.49548 14.4598,73.4891 -11.86912,13.74541 -37.712395,6.18564 -48.725924,-10.93843 -5.925422,-8.85957 -9.979708,-23.02327 -9.986316,-46.19366 -0.0038,-13.47947 0.892407,-30.16282 13.405278,-34.35523 z"
+       id="path1367-7-1-0-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssscss" />
+    <ellipse
+       style="opacity:1;fill:#ff0000;fill-opacity:0.15686275;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path1367-7-1-0"
+       cx="-222.89178"
+       cy="-93.677765"
+       rx="41.846607"
+       ry="27.297878"
+       transform="rotate(-135)" />
+    <ellipse
+       style="opacity:1;fill:#0000ff;fill-opacity:0.15686275;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path1367-7-1-0-3"
+       cx="-73.409271"
+       cy="243.17888"
+       rx="41.846607"
+       ry="27.29788"
+       transform="rotate(-45)" />
+    <g
+       id="g945-9-80-4"
+       transform="translate(-19.568045,145.48866)"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       x="101.54488"
+       y="220.74052"
+       id="text1035-67-0-5"><tspan
+         sodipodi:role="line"
+         id="tspan1033-84-5-9"
+         x="101.54488"
+         y="220.74052"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan1065-5-8-0">ZPP</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text1035-67-0-1"><textPath
+         xlink:href="#path1914"
+         id="textPath1916"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan1033-84-5-0"><tspan
+     id="tspan1065-5-8-4"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">co-RP</tspan></tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       x="-96.46312"
+       y="211.38632"
+       id="text1035-67-0-8"
+       transform="rotate(-45)"
+       inkscape:transform-center-x="-0.13363476"
+       inkscape:transform-center-y="-1.7372519"><tspan
+         sodipodi:role="line"
+         id="tspan1033-84-5-7"
+         x="-96.46312"
+         y="211.38632"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan1065-5-8-5">RP</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       x="104.09557"
+       y="241.30272"
+       id="text1035-67-0-0"><tspan
+         sodipodi:role="line"
+         id="tspan1033-84-5-6"
+         x="104.09557"
+         y="241.30272"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan1065-5-8-1">P</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       x="102.1764"
+       y="82.102196"
+       id="text1035-67-0-83"><tspan
+         sodipodi:role="line"
+         id="tspan1033-84-5-5"
+         x="102.1764"
+         y="82.102196"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan1065-5-8-9">PP</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       x="31.367552"
+       y="185.61089"
+       id="text1035-67-0-86"
+       transform="rotate(-14.793704)"><tspan
+         sodipodi:role="line"
+         id="tspan1033-84-5-4"
+         x="31.367552"
+         y="185.61089"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan1065-5-8-53">BPP</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       x="94.115852"
+       y="59.866344"
+       id="text1035-67-0-03"><tspan
+         sodipodi:role="line"
+         id="tspan1033-84-5-2"
+         x="94.115852"
+         y="59.866344"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan1065-5-8-13">PSPACE</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       x="101.21331"
+       y="107.20097"
+       id="text1035-67-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan1033-84-5-91"
+         x="101.21331"
+         y="107.20097"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan1065-5-8-6">PH</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       x="26.055424"
+       y="140.22519"
+       id="text1035-67-0-9"
+       transform="rotate(-9.3137586)"><tspan
+         sodipodi:role="line"
+         id="tspan1033-84-5-75"
+         x="26.055424"
+         y="140.22519"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan1065-5-8-8">Σ<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;baseline-shift:sub"
+   id="tspan3032">n</tspan><tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan3034">+1 </tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main"
+   id="tspan3040">= </tspan>NP</tspan>(Σ<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;baseline-shift:sub"
+   id="tspan3028">n</tspan>)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       x="156.88062"
+       y="97.836342"
+       id="text1035-67-0-2"
+       transform="rotate(12.129503)"><tspan
+         sodipodi:role="line"
+         id="tspan1033-84-5-8"
+         x="156.88062"
+         y="97.836342"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;baseline-shift:baseline;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">Π<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;baseline-shift:sub"
+   id="tspan3058">n</tspan><tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan3064">+1 </tspan>= <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella'"
+   id="tspan3066">co-</tspan>Σ<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;baseline-shift:sub"
+   id="tspan3060">n</tspan><tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan3062">+1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       x="143.48448"
+       y="163.25124"
+       id="text1035-67-0-07"><tspan
+         sodipodi:role="line"
+         id="tspan1033-84-5-3"
+         x="143.48448"
+         y="163.25124"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">Π<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;baseline-shift:sub;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan1414">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       x="63.818989"
+       y="159.31952"
+       id="text1035-67-0-33"><tspan
+         sodipodi:role="line"
+         id="tspan1033-84-5-62"
+         x="63.818989"
+         y="159.31952"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">Σ<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;baseline-shift:sub;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan1419">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       x="90.292168"
+       y="149.81767"
+       id="text1035-67-0-92-4"><tspan
+         sodipodi:role="line"
+         id="tspan1033-84-5-74-3"
+         x="90.292168"
+         y="149.81767"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';baseline-shift:baseline;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">Δ<tspan
+   id="tspan1694"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;baseline-shift:sub;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;baseline-shift:baseline"
+   id="tspan3018">n</tspan>+1</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;baseline-shift:baseline;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan1690"><tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan2984">&gt;2 </tspan>= <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella'"
+   id="tspan3004">P</tspan>(Σ<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;baseline-shift:sub"
+   id="tspan2988">n</tspan>)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text1035-67-0-19-5"><textPath
+         xlink:href="#path1856"
+         id="textPath1858"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan1033-84-5-92-1"><tspan
+     id="tspan1065-5-8-7-5"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+   id="tspan1389-0"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+   id="tspan1333"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">co-NP </tspan><tspan
+   style="-inkscape-font-specification:MathJax_Main;font-family:MathJax_Main;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan3014">=</tspan> </tspan>Π<tspan
+   id="tspan1385-7"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.12749958px;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;baseline-shift:sub;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">1 </tspan><tspan
+   id="tspan1387-4"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+   style="-inkscape-font-specification:MathJax_Main;font-family:MathJax_Main;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan3016">=</tspan> </tspan>∀P</tspan></tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       x="127.88825"
+       y="37.40593"
+       id="text1538"><tspan
+         sodipodi:role="line"
+         id="tspan1536"
+         x="127.88825"
+         y="46.769699"
+         style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       x="69.46859"
+       y="33.697865"
+       id="text1154"><tspan
+         sodipodi:role="line"
+         id="tspan1152"
+         x="69.46859"
+         y="43.061634"
+         style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none" /></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.2, 0.8;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m 186.37957,172.30178 c -0.189,64.20896 -39.19895,105.46919 -81.51123,105.65818 -44.390733,0.19828 -79.999346,-47.30785 -79.62137,-105.84717 0.357225,-55.32536 35.608172,-79.388793 79.99934,-79.38879 44.39116,3e-6 81.29611,24.25151 81.13326,79.57778 z"
+       id="path833-5-6-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss" />
+    <ellipse
+       style="opacity:1;fill:#0000ff;fill-opacity:0.19607843;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.2, 0.80000000000000004;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path1367"
+       cx="106.05111"
+       cy="238.78897"
+       rx="13.836943"
+       ry="14.037395" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.2, 0.8;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path1367-7-1"
+       cx="-231.58195"
+       cy="-93.832436"
+       rx="29.468012"
+       ry="21.361078"
+       transform="rotate(-135)" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686;paint-order:normal"
+       id="path1367-7-1-9"
+       cx="-81.742317"
+       cy="243.64139"
+       rx="29.468014"
+       ry="21.361078"
+       transform="rotate(-45)" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686;paint-order:normal"
+       d="m 56.453482,188.61884 c -11.947215,12.10651 -6.785637,36.96602 11.528682,55.52515 10.063524,10.18229 22.554584,16.79276 33.960026,17.97219 0.22776,0.0204 0.45672,0.0382 0.68683,0.0534 0.81428,0.0804 1.6195,0.13271 2.41439,0.15669 12.39043,0.29853 26.88486,-6.56963 38.34054,-18.16761 18.31436,-18.55896 23.47618,-43.41844 11.52925,-55.52515 -12.09786,-12.75987 -82.628773,-16.10655 -98.459718,-0.0147 z"
+       id="path1367-7-1-0-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.39215686;paint-order:normal"
+       d="m 47.170555,152.6424 c -13.880075,13.81078 -14.048916,43.87771 -2.62931,69.817 11.011448,25.01218 32.837566,46.15996 61.424595,46.60173 26.20391,0.40494 48.50898,-19.92534 60.41522,-44.35097 14.3106,-29.35816 13.93454,-64.54867 -8.27757,-75.64386 -14.78299,-7.38426 -89.953766,-17.29833 -110.932935,3.5761 z"
+       id="path1367-7-1-0-2-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssss" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.2, 0.8;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m 192.15589,171.55051 c 0,61.13179 -38.77478,110.6889 -86.6059,110.6889 -47.831127,0 -86.605907,-49.55711 -86.605907,-110.6889 -2e-6,-61.13179 38.507509,-102.938058 86.338637,-102.938059 47.83112,-3e-6 86.87317,41.806259 86.87317,102.938059 z"
+       id="path833-5-6-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssss" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       x="104.71812"
+       y="188.58992"
+       id="text1035-67-0-92"><tspan
+         sodipodi:role="line"
+         id="tspan1033-84-5-74"
+         x="104.71812"
+         y="188.58992"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">Δ<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;baseline-shift:sub;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan1598">2 </tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan1602" /></tspan></text>
+    <g
+       id="g945-9-80-4-7"
+       transform="rotate(-45,302.19279,131.37164)"
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05291667"
+         id="text1877"><textPath
+           xlink:href="#path1899"
+           id="textPath1901"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';stroke-width:0.05291667"
+   id="tspan1875">NP <tspan
+   id="tspan1881"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">=</tspan> Σ<tspan
+   id="tspan1887"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;baseline-shift:sub">1</tspan> <tspan
+   id="tspan1883"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main">=</tspan> ∃P</tspan></textPath></text>
+      <path
+         style="fill:none;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 72.72556,23.016692 c 0,0 8.2003,-7.01013 16.092524,-6.312908 8.838875,0.780852 15.090516,7.44679 15.090516,7.44679"
+         id="path1899"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc" />
+    </g>
+    <path
+       style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 123.42201,195.82652 c 0,0 13.46684,-1.00839 19.30558,6.14406 6.34183,7.76873 4.90355,17.53164 4.90355,17.53164"
+       id="path1856"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.20373,210.69815 c 0,0 7.09275,2.28062 8.99109,11.54797"
+       id="path1914"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="69.547623"
+       y="113.39806"
+       id="text3044"><tspan
+         sodipodi:role="line"
+         id="tspan3042"
+         x="69.547623"
+         y="116.51932"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.58823529;stroke:none;stroke-width:0.26458332"
+       x="37.646416"
+       y="34.457741"
+       id="text1069"><tspan
+         sodipodi:role="line"
+         id="tspan1067"
+         x="37.646416"
+         y="34.457741"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:0.58823529;stroke-width:0.26458332">Some complexity classes between P and PSPACE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="44.298813"
+       y="22.211313"
+       id="text1073"><tspan
+         sodipodi:role="line"
+         id="tspan1071"
+         x="44.298813"
+         y="22.211313"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Bold';stroke-width:0.26458332">Complexity Theory</tspan></text>
+  </g>
+</svg>
