@@ -57,16 +57,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1197"
-       id="linearGradient1199"
-       x1="400.00003"
-       y1="242.51967"
-       x2="400"
-       y2="882.5199"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.26458333,0,0,0.26458333,0,15.875004)" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient1280"
        id="linearGradient1282"
        x1="400.00003"
@@ -103,9 +93,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="446.76185"
-     inkscape:cy="572.98499"
+     inkscape:zoom="0.7"
+     inkscape:cx="394.17221"
+     inkscape:cy="550.18276"
      inkscape:document-units="mm"
      inkscape:current-layer="text1073"
      showgrid="false"
