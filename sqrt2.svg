@@ -243,9 +243,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="617.36364"
-     inkscape:cy="500.32609"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="532.93626"
+     inkscape:cy="820.40693"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -265,7 +265,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -450,14 +450,14 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.58823529;stroke:none;stroke-width:0.26458332"
-       x="25.764635"
-       y="36.987823"
+       x="16.768793"
+       y="37.516991"
        id="text1069"><tspan
          sodipodi:role="line"
          id="tspan1067"
-         x="25.764635"
-         y="36.987823"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:0.58823529;stroke-width:0.26458332">An integer square that fits twice in another integer square cannot exist</tspan></text>
+         x="16.768793"
+         y="37.516991"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:0.58823529;stroke-width:0.26458332">An integer square that fits exactly twice in another integer square cannot exist.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
