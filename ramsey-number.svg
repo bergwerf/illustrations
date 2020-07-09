@@ -98,9 +98,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="476.91353"
-     inkscape:cy="543.71392"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="550.27766"
+     inkscape:cy="221.3429"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1506,6 +1506,11 @@
          y="239.62781"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
          id="tspan5253">to extend a red triangle.</tspan></text>
+    <path
+       style="fill:#bdbdff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 54.91668,259.95833 10.583334,10.58334 10.583333,-10.58334 z"
+       id="path1210"
+       inkscape:connector-curvature="0" />
     <g
        style="stroke:#969696;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="g5343-0"
@@ -1590,6 +1595,11 @@
            r="0.99337506" />
       </g>
     </g>
+    <path
+       style="fill:#bdbdff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 97.250016,249.375 -3e-6,21.16667 10.583337,-10.58334 z"
+       id="path1212"
+       inkscape:connector-curvature="0" />
     <g
        style="stroke:#969696;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="g5343-5-6"
@@ -1670,6 +1680,11 @@
            r="0.99337506" />
       </g>
     </g>
+    <path
+       style="fill:#ffbdbd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 25.812515,249.375 -2.645834,10.58333 10.583333,10.58334 V 249.375 Z"
+       id="path1208"
+       inkscape:connector-curvature="0" />
     <g
        id="g5745"
        transform="translate(-13.874985,23.812499)">
@@ -1787,6 +1802,11 @@
            style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
       </g>
     </g>
+    <path
+       style="fill:#ffbdbd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 118.41668,259.95833 v 7.9375 l 10.58333,2.64584 10.58334,-10.58334 z"
+       id="path1214"
+       inkscape:connector-curvature="0" />
     <g
        transform="translate(85.343766,43.65625)"
        style="stroke:#ff0000;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:0.60000003, 0.30000001;stroke-dashoffset:0;stroke-opacity:1"
@@ -1905,9 +1925,19 @@
          id="path1311-0-3-3-7-2-49-2-6"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     </g>
+    <path
+       style="fill:#ffbdbd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 155.45833,196.45833 -10.58334,10.58334 10.58334,10.58333 10.58333,-10.58334 z"
+       id="path1216"
+       inkscape:connector-curvature="0" />
     <g
        id="g5745-8"
        transform="translate(107.83333,-29.104167)">
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 39.687497,225.5625 18.520834,10.58333"
+         id="path1206"
+         inkscape:connector-curvature="0" />
       <g
          style="stroke:#0000ff;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="g5722-5">
@@ -2043,9 +2073,19 @@
          y="186.71115"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
          id="tspan6018">or one edge is blue</tspan></text>
+    <path
+       style="fill:#bdbdff;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 179.27082,196.45833 7.93751,21.16666 v -21.16666 z"
+       id="path1218"
+       inkscape:connector-curvature="0" />
     <g
        id="g5745-8-4"
        transform="translate(139.58333,-29.104167)">
+      <path
+         style="fill:none;stroke:#0000fb;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 39.687497,225.5625 58.20833,236.14583"
+         id="path399"
+         inkscape:connector-curvature="0" />
       <g
          style="stroke:#0000ff;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="g5722-5-1">
@@ -2077,6 +2117,11 @@
            style="stroke:#969696;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
           <path
              inkscape:connector-curvature="0"
+             id="path5323-7-5"
+             d="M 37.041668,200.42709 26.458335,211.01042"
+             style="fill:none;stroke:#969696;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
              id="path5327-7-7"
              d="M 37.041668,221.59375 47.625001,211.01042"
              style="fill:none;stroke:#969696;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
@@ -2101,11 +2146,6 @@
              id="path5313-8-8"
              d="M 37.041668,221.59375 V 200.42709"
              style="fill:none;stroke:#0000ff;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path5323-7-5"
-             d="M 37.041668,200.42709 26.458335,211.01042"
-             style="fill:none;stroke:#969696;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
         <g
            style="stroke:#000000;stroke-width:0.199;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
