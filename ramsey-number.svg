@@ -132,7 +132,7 @@
      id="layer1">
     <g
        id="g1429"
-       transform="translate(2.0000153,22.166666)">
+       transform="translate(2.0000153,21.166666)">
       <path
          id="path14"
          d="M 105.83333,117.08333 87.17115,111.01962 75.637287,95.144623 v -19.62258 l 11.533862,-15.875 18.662181,-6.06371 18.66218,6.06371 11.53386,15.875 v 19.62258 l -11.53386,15.874997 z"
@@ -372,9 +372,9 @@
        inkscape:path-effect="#path-effect4665"
        inkscape:original-d="m 146.51331,108.42191 c -1.79921,-0.99088 -3.23285,1.57653 -3.39779,3.92374 -0.1051,1.49555 0.31857,7.25087 -0.24526,7.95037 -1.44882,1.79735 0.6252,7.19616 0.6297,8.52287 -2.7e-4,3.52804 3.3933,7.21665 3.834,8.09886 0.44071,0.8822 2.07712,1.89895 4.28172,5.86797 2.20459,3.96901 12.96169,2.7873 17.81212,4.11049 4.85043,1.32318 13.73016,-4.46348 19.02156,-4.90419 5.2914,-0.44071 2.95379,-11.0489 7.36325,-13.25349 4.40946,-2.2046 -2.72953,-0.6469 -2.28883,-5.9383 0.44071,-5.29141 -2.92904,3.59051 -5.57514,3.59078 -2.64609,2.6e-4 -0.16869,5.90178 0.27201,9.42982 0.44071,3.52804 -0.8019,2.40691 -1.68411,4.61203 -0.88221,2.20513 -3.31791,1.62385 -5.96401,2.50606 -2.6461,0.8822 -4.61279,-0.0813 -6.37695,-1.40398 -1.76415,-1.32266 -2.22035,-1.84822 -4.86645,-1.84795 -2.6461,2.6e-4 -3.20872,0.86302 -6.73676,2.18621 -3.52804,1.32318 -8.02407,0.32397 -9.78823,-1.88063 -1.76415,-2.2046 -2.58963,-9.66343 -2.14892,-12.309 0.44071,-2.64557 -0.29167,-8.84382 -0.22032,-12.43955 0.0554,-2.79407 2.98361,-4.27985 -0.37808,-4.36527 -1.97664,-0.0502 -2.45684,-1.85838 -3.54351,-2.45684 z"
        sodipodi:nodetypes="sssccscscccsccccccssss"
-       transform="translate(2.0000153,22.166666)" />
+       transform="translate(2.0000153,21.166666)" />
     <g
-       transform="matrix(0.75089772,0,0,0.75089772,91.86334,77.847731)"
+       transform="matrix(0.75089772,0,0,0.75089772,91.86334,76.847731)"
        id="g1429-4"
        style="stroke:#969696;stroke-opacity:1">
       <path
@@ -617,7 +617,7 @@
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.66586965;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
     </g>
     <path
-       transform="translate(1.11563,23.146125)"
+       transform="translate(1.11563,22.146125)"
        style="fill:#ffbdbd;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 33.959443,98.230565 c 0.191694,0.780611 0.07313,1.621698 -0.264831,2.350995 -0.337965,0.7293 -0.886057,1.35013 -1.526982,1.83522 -1.28185,0.97019 -2.885876,1.39265 -4.452132,1.75493 -2.56753,0.59387 -5.235825,1.11644 -7.413087,2.60117 -1.752312,1.19495 -3.112481,3.04253 -3.456325,5.13544 -0.191418,1.16512 -0.0673,2.37211 0.288696,3.4979 0.356,1.1258 0.939409,2.17248 1.652366,3.11367 1.080366,1.42622 2.445689,2.60541 3.738416,3.8424 2.034691,1.94696 3.915123,4.06682 5.477636,6.40972 1.846596,2.76887 3.228399,5.81475 4.693429,8.8031 1.041378,2.12419 2.171011,4.28117 3.959828,5.82932 1.761671,1.52466 4.097526,2.35155 6.427323,2.34059 2.124786,-0.01 4.262978,-0.72025 5.88444,-2.09345 2.075991,-1.75814 3.148742,-4.39338 4.682778,-6.64005 1.308437,-1.91627 2.965893,-3.56256 4.511081,-5.2936 1.545189,-1.73103 3.008586,-3.59645 3.818164,-5.771 0.768604,-2.06449 0.910152,-4.31181 0.825725,-6.51312 -0.08443,-2.20131 -0.386214,-4.38993 -0.472068,-6.59118 -0.05193,-1.33147 -0.01543,-2.70993 0.532097,-3.92472 0.273765,-0.60739 0.676168,-1.16341 1.203148,-1.57105 0.52698,-0.40764 1.182337,-0.66055 1.848575,-0.65897 0.635141,0.002 1.259528,0.2336 1.773712,0.60646 0.514184,0.37285 0.921643,0.88129 1.221672,1.4411 0.600059,1.11962 0.771575,2.41263 0.911059,3.67523 0.544486,4.92868 0.739507,10.01788 -0.752592,14.74673 -1.571535,4.9806 -4.915852,9.22278 -8.662996,12.86078 -1.965897,1.90864 -4.081883,3.69971 -6.50479,4.97923 -3.327897,1.75743 -7.14324,2.48652 -10.906056,2.41804 -4.001102,-0.0728 -8.0147,-1.04542 -11.480886,-3.04534 -3.184081,-1.83715 -5.829287,-4.48084 -8.198967,-7.2912 -2.072766,-2.45823 -3.97391,-5.08134 -5.416143,-7.95522 -2.645955,-5.2725 -3.670492,-11.31779 -3.091779,-17.18851 0.271659,-2.75583 0.898778,-5.50615 2.16166,-7.9706 1.999022,-3.90099 5.621366,-6.950375 9.823546,-8.197573 1.35755,-0.402918 2.815147,-0.622423 4.187495,-0.273213 0.686173,0.174604 1.340788,0.492915 1.872307,0.960686 0.531518,0.467771 0.935625,1.088474 1.104481,1.776085 z"
        id="path2135"
@@ -626,7 +626,7 @@
        inkscape:original-d="m 33.959443,98.230565 c 2.137891,0.267536 -5.662264,3.539285 -6.243945,5.941145 -0.581684,2.40186 -4.65337,2.77525 -7.413087,2.60117 -2.759716,-0.17408 -1.807898,3.13065 -3.456325,5.13544 -1.648426,2.00478 2.654045,2.42408 1.941062,6.61157 -0.712983,4.18748 2.045974,3.57486 3.738416,3.8424 1.692443,0.26753 3.384288,4.40494 5.477636,6.40972 2.093346,2.00479 2.778261,5.86288 4.693429,8.8031 1.915165,2.94023 2.891014,3.33454 3.959828,5.82932 1.068813,2.49478 2.883586,4.06309 6.427323,2.34059 3.206971,-1.55882 4.637446,0.57898 5.88444,-2.09345 1.246992,-2.67243 2.233072,-3.87853 4.682778,-6.64005 2.449708,-2.76152 7.572246,-7.23401 8.329245,-11.0646 0.757,-3.8306 0.353922,-9.54097 0.353657,-13.1043 -2.64e-4,-3.56333 0.376852,-6.37773 3.58382,-6.15474 3.206969,0.22299 3.692221,1.87178 3.906443,5.72279 0.215744,3.87838 -0.354881,11.07604 -0.752592,14.74673 -0.417506,3.85338 -6.48003,10.14328 -8.662996,12.86078 -2.182966,2.71751 -5.345833,2.66507 -6.50479,4.97923 -1.833983,3.66203 -6.807657,1.83869 -10.906056,2.41804 -4.098398,0.57935 -8.006119,-2.6447 -11.480886,-3.04534 -3.474768,-0.40064 -5.036013,-4.08423 -8.198967,-7.2912 -3.162954,-3.20697 -4.49812,-12.15643 -5.416143,-7.95522 -2.762049,12.64014 -1.532442,-12.42246 -3.091779,-17.18851 -1.559334,-4.76604 -0.555315,-4.00637 2.16166,-7.9706 2.716976,-3.96424 6.794756,-5.391509 9.823546,-8.197573 3.02879,-2.806065 5.026391,2.196025 7.164283,2.463558 z"
        sodipodi:nodetypes="ccscscccssssssssscsssssscsc" />
     <g
-       transform="matrix(0.75089771,0,0,0.75089771,-35.136655,77.847732)"
+       transform="matrix(0.75089771,0,0,0.75089771,-35.136655,76.847732)"
        id="g1429-4-4"
        style="stroke:#969696;stroke-opacity:1">
       <path
@@ -878,7 +878,7 @@
     <g
        id="g2117"
        style="stroke:#000000;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="translate(39.04168,8.9374935)">
+       transform="translate(39.04168,7.9374935)">
       <path
          inkscape:transform-center-y="1.8156957e-06"
          d="m 42.168824,193.8125 -16.039512,-9.26041 0,-18.52083 16.039511,-9.26042 16.039511,9.26042 10e-7,18.52083 z"
@@ -1070,34 +1070,34 @@
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.58823529;stroke:none;stroke-width:0.26458332"
        x="37.021912"
-       y="44.328541"
+       y="42.328541"
        id="text1069"><tspan
          sodipodi:role="line"
          id="tspan1067"
          x="37.021912"
-         y="44.328541"
+         y="42.328541"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#646464;fill-opacity:1;stroke-width:0.26458332">When the edges of a complete graph with 10 nodes are colored red or blue,</tspan><tspan
          sodipodi:role="line"
          x="37.021912"
-         y="50.502151"
+         y="48.502151"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#646464;fill-opacity:1;stroke-width:0.26458332"
          id="tspan4327">there is a subgraph with 4 nodes where all edges are red or</tspan><tspan
          sodipodi:role="line"
          x="37.021912"
-         y="56.675762"
+         y="54.675762"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#646464;fill-opacity:1;stroke-width:0.26458332"
          id="tspan4333">a subgraph with 3 nodes where all edges are blue.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="44.428833"
+       x="66.428833"
        y="26.764166"
        id="text1073"><tspan
          sodipodi:role="line"
          id="tspan1071"
-         x="44.428833"
+         x="66.428833"
          y="26.764166"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Bold';stroke-width:0.26458332">Ramsey's Number</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';stroke-width:0.26458332">R(4, 2) ≤ 10</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1113,38 +1113,38 @@
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.58823529;stroke:none;stroke-width:0.26458332"
        x="17.797405"
-       y="104.7695"
+       y="103.7695"
        id="text1069-9"><tspan
          sodipodi:role="line"
          x="17.797405"
-         y="104.7695"
+         y="103.7695"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
          id="tspan4333-2">Either the top node is connected</tspan><tspan
          sodipodi:role="line"
          x="17.797405"
-         y="109.19865"
+         y="108.19865"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
          id="tspan4632">to at least 6 nodes by a red edge.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.58823529;stroke:none;stroke-width:0.26458332"
        x="147.44322"
-       y="104.7695"
+       y="103.7695"
        id="text1069-9-6"><tspan
          sodipodi:role="line"
          x="147.44322"
-         y="104.7695"
+         y="103.7695"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
          id="tspan4632-1">Or it is connected to at least</tspan><tspan
          sodipodi:role="line"
          x="147.44322"
-         y="109.19865"
+         y="108.19865"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
          id="tspan4657">4 nodes by a blue edge.</tspan></text>
     <g
        id="g2117-7"
        style="stroke:#969696;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="translate(60.208347,44.656244)">
+       transform="translate(60.208347,43.656244)">
       <path
          inkscape:transform-center-y="1.8156957e-06"
          d="m 42.333336,193.8125 -16.039511,-9.26041 0,-18.52083 16.03951,-9.26042 16.039512,9.26042 0,18.52083 z"
@@ -1294,7 +1294,7 @@
     <g
        id="g2117-7-4"
        style="stroke:#969696;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="translate(17.875013,44.656244)">
+       transform="translate(17.875013,43.656244)">
       <path
          inkscape:transform-center-y="1.8156957e-06"
          d="m 42.333336,193.8125 -16.039511,-9.26041 0,-18.52083 16.03951,-9.26042 16.039512,9.26042 0,18.52083 z"
@@ -1452,64 +1452,64 @@
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.58823529;stroke:none;stroke-width:0.26458332"
        x="9.9904308"
-       y="178.85989"
+       y="177.85989"
        id="text1069-9-2"><tspan
          sodipodi:role="line"
          x="9.9904308"
-         y="178.85989"
+         y="177.85989"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
          id="tspan4632-7">The search for a subgraph can</tspan><tspan
          sodipodi:role="line"
          x="9.9904308"
-         y="183.28905"
+         y="182.28905"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
          id="tspan5047">be restricted to these 6 nodes.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.58823529;stroke:none;stroke-width:0.26458332"
        x="9.9904308"
-       y="190.75909"
+       y="189.75909"
        id="text1069-9-2-4"><tspan
          sodipodi:role="line"
          x="9.9904308"
-         y="190.75909"
+         y="189.75909"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
          id="tspan5074">The new top node is again</tspan><tspan
          sodipodi:role="line"
          x="9.9904308"
-         y="195.18825"
+         y="194.18825"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
          id="tspan5078">connected to at least 3 nodes</tspan><tspan
          sodipodi:role="line"
          x="9.9904308"
-         y="199.6174"
+         y="198.6174"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
          id="tspan5047-9">by only red or blue edges.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.58823529;stroke:none;stroke-width:0.26458332"
        x="9.9092922"
-       y="231.7695"
+       y="230.7695"
        id="text1069-9-2-5"><tspan
          sodipodi:role="line"
          x="9.9092922"
-         y="231.7695"
+         y="230.7695"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
          id="tspan5047-0">We can use the</tspan><tspan
          sodipodi:role="line"
          x="9.9092922"
-         y="236.19865"
+         y="235.19865"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
          id="tspan5226">previous top node</tspan><tspan
          sodipodi:role="line"
          x="9.9092922"
-         y="240.62781"
+         y="239.62781"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
          id="tspan5253">to extend a red triangle.</tspan></text>
     <g
        style="stroke:#969696;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="g5343-0"
-       transform="translate(28.458346,49.947911)">
+       transform="translate(28.458346,48.947911)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -1593,7 +1593,7 @@
     <g
        style="stroke:#969696;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="g5343-5-6"
-       transform="translate(60.208347,49.94791)">
+       transform="translate(60.208347,48.94791)">
       <path
          inkscape:connector-curvature="0"
          id="path5327-6-4"
@@ -1672,7 +1672,7 @@
     </g>
     <g
        id="g5745"
-       transform="translate(-13.874985,24.812499)">
+       transform="translate(-13.874985,23.812499)">
       <g
          style="stroke:#ff0000;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:0.60000003, 0.30000001;stroke-dashoffset:0;stroke-opacity:1"
          id="g5722">
@@ -1788,7 +1788,7 @@
       </g>
     </g>
     <g
-       transform="translate(85.343766,44.65625)"
+       transform="translate(85.343766,43.65625)"
        style="stroke:#ff0000;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:0.60000003, 0.30000001;stroke-dashoffset:0;stroke-opacity:1"
        id="g5722-8">
       <path
@@ -1813,7 +1813,7 @@
     <g
        style="stroke:#969696;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="g5343-0-6"
-       transform="translate(91.958347,49.94791)">
+       transform="translate(91.958347,48.94791)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -1895,7 +1895,7 @@
       </g>
     </g>
     <g
-       transform="translate(68.901801,114.86533)"
+       transform="translate(68.901801,113.86533)"
        style="stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="g2125-5-7-4">
       <circle
@@ -1907,7 +1907,7 @@
     </g>
     <g
        id="g5745-8"
-       transform="translate(107.83333,-28.104167)">
+       transform="translate(107.83333,-29.104167)">
       <g
          style="stroke:#0000ff;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="g5722-5">
@@ -2026,26 +2026,26 @@
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.58823529;stroke:none;stroke-width:0.26458332"
        x="150.08905"
-       y="178.85284"
+       y="177.85284"
        id="text1069-9-2-1"><tspan
          sodipodi:role="line"
          x="150.08905"
-         y="178.85284"
+         y="177.85284"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
          id="tspan6000">Either all edges between</tspan><tspan
          sodipodi:role="line"
          x="150.08905"
-         y="183.282"
+         y="182.282"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
          id="tspan6014">these 4 nodes are red,</tspan><tspan
          sodipodi:role="line"
          x="150.08905"
-         y="187.71115"
+         y="186.71115"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella Italic';fill:#000000;fill-opacity:1;stroke-width:0.26458332"
          id="tspan6018">or one edge is blue</tspan></text>
     <g
        id="g5745-8-4"
-       transform="translate(139.58333,-28.104167)">
+       transform="translate(139.58333,-29.104167)">
       <g
          style="stroke:#0000ff;stroke-width:0.15000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="g5722-5-1">
