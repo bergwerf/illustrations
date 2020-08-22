@@ -1,0 +1,55 @@
+; http://morphett.info/turing/turing.html
+
+0 * * l start1
+
+start1 * _ l start2
+start2 * 1 l start3
+start3 * _ l start4
+start4 * 1 r first1
+
+first1 _ _ r first2
+first2 1 1 r first2
+first2 _ _ r first3
+first3 1 1 r first4
+first4 1 1 * next2
+first4 _ _ r accept ; in case the input is 1
+
+next1 _ _ r next1 ; skip finished counting steps
+next1 1 1 r next2 ; step over number boundary
+next2 _ _ r next2 ; skip already erased units
+next2 1 1 r next3 ; start terminal check
+next3 1 1 l next4 ; this is not the terminal 1
+next3 _ _ l inc1  ; this is the terminal 1
+next4 1 _ l down1 ; erase one unit and go back to counter
+
+down1 _ _ l down1   ; skip erased units
+down1 1 1 l down2   ; skip number boundary
+down2 _ _ l down2   ; skip finished counting steps
+down2 1 1 l down3   ; skip current counting step
+down3 _ _ l reset1  ; this was the last counting step, reset counter
+down3 1 1 r down4   ; there are counting steps left
+down4 1 _ r next1   ; erase this counting step, and erase next unit
+
+reset1 * _ r reset2 ; remove counter first time flag
+reset2 _ _ r reset3 ; skip counter flag separator
+reset3 1 1 r reset4 ; skip counter terminal
+reset4 _ 1 r reset4 ; set rest of counter back to 1
+reset4 1 1 r next2  ; start erasing next unit
+
+inc1 1 1 l inc2   ; Move past number terminal
+inc2 _ 1 l inc2   ; Move to the number boundary while resetting number.
+inc2 1 1 l inc3   ; Move past number boundary
+inc3 _ _ l inc4   ; Leave one empty counter unit
+inc3 1 _ l inc6   ; If the counter is full we can already increment
+inc4 _ 1 l inc4   ; Move past empty counter units and reset them
+inc4 1 1 l inc5   ; This is the current counter unit
+inc5 _ _ l check1 ; This was the last counter unit
+inc5 1 1 l inc6   ; A counter unit is left, we can actually increment
+inc6 1 1 l inc6   ; Skip rest of the counter.
+inc6 _ 1 l start3 ; Restart division process.
+
+check1 _ _ l reject
+check1 1 1 l accept
+
+accept _ A l halt
+reject _ R l halt
