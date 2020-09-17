@@ -17,9 +17,9 @@
    id="svg207"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="aquivalenzsatz.svg"
-   inkscape:export-filename="/home/herman/repos/bergwerf/illustrations/aquivalenzsatz.svg.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   inkscape:export-filename="/home/herman/repos/bergwerf/illustrations/csb/aquivalenzsatz.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100">
   <defs
      id="defs201">
     <linearGradient
@@ -377,9 +377,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.37193112"
-     inkscape:cx="583.24121"
-     inkscape:cy="1106.975"
+     inkscape:zoom="0.2778125"
+     inkscape:cx="586.68546"
+     inkscape:cy="1344.8494"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -393,7 +393,8 @@
      inkscape:snap-others="true"
      inkscape:object-paths="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:snap-grids="false">
+     inkscape:snap-grids="false"
+     inkscape:snap-page="true">
     <inkscape:grid
        type="xygrid"
        id="grid1286"
@@ -409,7 +410,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -418,6 +419,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,297)">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#fdfeff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect326"
+       width="420"
+       height="594"
+       x="0"
+       y="-297" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -446,12 +454,12 @@
    id="tspan461"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic;text-align:center;text-anchor:middle;fill:#323232;fill-opacity:1">A</tspan>  are found.</tspan><tspan
          sodipodi:role="line"
-         x="214.01132"
+         x="214.01131"
          y="-219.99245"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:center;text-anchor:middle;fill:#323232;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan1748">In the following figure images of <tspan
+         id="tspan1748">In the following figure images under <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math"
-   id="tspan1750">f</tspan> are gray, and images of <tspan
+   id="tspan1750">f</tspan> are gray, and images under <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math"
    id="tspan1754">g</tspan> are blue.</tspan></text>
     <path
@@ -469,12 +477,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="211.26535"
-       y="252.50372"
+       x="212.26535"
+       y="253.50372"
        id="text421-4"><tspan
          sodipodi:role="line"
-         x="211.26535"
-         y="252.50372"
+         x="212.26535"
+         y="253.50372"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:center;text-anchor:middle;fill:#323232;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1399">Using the inverse of <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;text-align:center;text-anchor:middle"
@@ -484,8 +492,8 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;text-align:center;text-anchor:middle"
    id="tspan1397">f</tspan> for</tspan><tspan
          sodipodi:role="line"
-         x="211.26535"
-         y="266.82062"
+         x="212.26535"
+         y="267.82062"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:center;text-anchor:middle;fill:#323232;fill-opacity:1;stroke-width:0.26458332"
          id="tspan3377">the remaining set yields a bijective function from <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic"
@@ -493,8 +501,8 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MathJax_Caligraphic;-inkscape-font-specification:MathJax_Caligraphic"
    id="tspan2422">B</tspan>.</tspan><tspan
          sodipodi:role="line"
-         x="211.26535"
-         y="280.93173"
+         x="212.26535"
+         y="281.93173"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:'Linux Libertine O';-inkscape-font-specification:'Linux Libertine O';text-align:center;text-anchor:middle;fill:#323232;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1544" /></text>
     <ellipse
@@ -536,7 +544,7 @@
          id="tspan1624"
          x="392.71722"
          y="257.49612"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.28888893px;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#323232;fill-opacity:1;stroke:none;stroke-width:0.26458332"
