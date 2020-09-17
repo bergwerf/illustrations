@@ -1,3 +1,5 @@
+*.png
+
 # Linux
 *~
 .fuse_hidden*
