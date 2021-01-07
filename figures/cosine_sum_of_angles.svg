@@ -16,9 +16,9 @@
    id="svg8"
    sodipodi:docname="cosine_sum_of_angles.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="/home/herman/repos/bergwerf/illustrations/figures/cosine_sum_of_angles.svg.png"
-   inkscape:export-xdpi="200"
-   inkscape:export-ydpi="200">
+   inkscape:export-filename="/home/herman/repos/bergwerf/latex-docs/settheory/hoeksom.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="188.55626"
-     inkscape:cy="758.0515"
+     inkscape:zoom="1.1219593"
+     inkscape:cx="317.33931"
+     inkscape:cy="587.66987"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,6 +67,25 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect910"
+       width="127.53474"
+       height="179.91943"
+       x="44.052269"
+       y="44.917755"
+       ry="0"
+       inkscape:export-filename="/home/herman/Pictures/hoeksom.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#010101;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1699-3"
+       width="84.666672"
+       height="28.418987"
+       x="58.807999"
+       y="187.18301"
+       ry="2.9722805" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#f22121;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path32"
@@ -370,9 +389,11 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.26458332"
    id="tspan1427-0"><tspan
    style="font-size:2.52236104px;baseline-shift:sub;stroke-width:0.26458332"
-   id="tspan1439-4">1 </tspan>cos</tspan> α <tspan
+   id="tspan1439-4">1 </tspan>cos(</tspan>α <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O'"
-   id="tspan1465">+ </tspan>β</tspan></text>
+   id="tspan1465">+ </tspan>β<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold'"
+   id="tspan101">)</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -395,11 +416,11 @@
        width="84.666672"
        height="28.418989"
        x="58.208332"
-       y="187"
+       y="186.58313"
        ry="2.9722805" />
     <g
        id="g1697"
-       transform="matrix(1.2265646,0,0,1.2265646,-4.9958287,-42.170694)">
+       transform="matrix(1.1620086,0,0,1.1620086,-0.28877109,-29.731218)">
       <text
          id="text1421-0-2"
          y="193.3714"
@@ -414,11 +435,11 @@
    id="tspan1427-0-5"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.26458332"><tspan
    id="tspan1439-4-9"
-   style="font-size:2.52236104px;baseline-shift:sub;stroke-width:0.26458332">1 </tspan>cos</tspan> α <tspan
+   style="font-size:2.52236104px;baseline-shift:sub;stroke-width:0.26458332">1 </tspan>cos(</tspan>α <tspan
    id="tspan1465-9"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O';stroke-width:0.26458332">+ </tspan>β <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O';stroke-width:0.26458332">+ </tspan>β<tspan
    id="tspan1523"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold'">= <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold'">) = <tspan
    id="tspan1525"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold'">r</tspan><tspan
    id="tspan1527"
@@ -443,11 +464,11 @@
            id="tspan1419-5-1-0"
            sodipodi:role="line"><tspan
    id="tspan1427-0-5-4"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.26458332">cos</tspan> α <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.26458332">cos(</tspan>α <tspan
    id="tspan1465-9-7"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O';stroke-width:0.26458332">+ </tspan>β <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O';stroke-width:0.26458332">+ </tspan>β<tspan
    id="tspan1523-9"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.26458332">= (<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.26458332">) = (<tspan
    id="tspan1525-7"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';stroke-width:0.26458332">r</tspan><tspan
    id="tspan1527-5"
@@ -464,13 +485,13 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold'">α</tspan> sin </tspan>β</tspan></text>
       <text
          id="text1421-0-2-8-9"
-         y="205.36156"
-         x="73.759674"
+         y="205.39108"
+         x="75.118149"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';stroke-width:0.26458332"
-           y="205.36156"
-           x="73.759674"
+           y="205.39108"
+           x="75.118149"
            id="tspan1419-5-1-0-7"
            sodipodi:role="line"><tspan
    id="tspan1523-9-0"
