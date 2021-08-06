@@ -1,4 +1,4 @@
 Illustrations
 =============
-All kinds of (vector) illustrations I made. If you want to use them in your own 
-work please send me an email.
+A collection of mostly mathematical illustrations I made. If you want to use 
+or redistribute them, please send me an email.
