@@ -105,12 +105,20 @@ function cut_poly(r, p) {
 // between a ray and a polygon.
 function isect_poly(r, p) {
   let points = [];
+  let eps = 0.001;
+  let prev = null;
   for (let i = 0; i < p.length; i++) {
     let j = (i + 1) % p.length;
     let line = ray(p[i], p[j]);
     let t = isect_ray(line, r);
     if (t != null && t >= 0 && t <= 1) {
-      points.push(ray_at(t, line));
+      let v = ray_at(t, line);
+      // Ignore if this point is very close
+      // to the previous intersection.
+      if (prev == null || vdist(v, prev) > eps) {
+        points.push(v);
+        prev = v;
+      }
     }
   }
   return points;
@@ -122,10 +130,8 @@ function isect_poly(r, p) {
 function isect_poly_line(r, p) {
   let ps = isect_poly(r, p);
   if (ps.length == 0) return null;
-  if (ps.length == 1) return ray(ps[0], [0, 0]);
-  // Ad-hoc solution for duplicate intersections:
-  // use first and last points.
-  return ray(ps[0], ps[ps.length - 1]);
+  if (ps.length == 1) return [ps[0], [0, 0]];
+  return ray(ps[0], ps[1]);
 }
 
 // Draw ray section [0, 1] as line.
@@ -180,8 +186,8 @@ function mouseMoved() {
 
 function mouseDragged() {
   if (mouseButton == LEFT && !keyIsDown(17)) {
-    a = max(50, a + movedX / 5);
-    b = max(50, b + movedY / 5);
+    a = max(50, a + (movedX || 0) / 5);
+    b = max(50, b + (movedY || 0) / 5);
     interact = true;
     redraw();
   }
@@ -339,4 +345,3 @@ function draw() {
     if (r != null) draw_ray(r);
   }
 }
-
