@@ -72,25 +72,34 @@ function isect_ray(r, s) {
 }
 
 // Cut polygon using a ray.
+// Return intersection points and
+// a list of resulting polygons.
 function cut_poly(r, p) {
-  let q = [[], []];
-  let qi = 0;
   let eps = 0.001;
-  let prev = null;
+  let pts = [];
+  let ps = [[], []];
+  let pi = 0;
   for (let i = 0; i < p.length; i++) {
-    q[qi].push(p[i]);
+    ps[pi].push(p[i]);
     let j = (i + 1) % p.length;
     let line = ray(p[i], p[j]);
     let t = isect_ray(line, r);
     if (t != null && t >= 0 && t <= 1) {
       let v = ray_at(t, line);
       // Ignore if this point is very close
-      // to the previous intersection.
-      if (prev == null || vdist(v, prev) > eps) {
-        q[qi].push(v);
-        qi = 1 - qi;
-        q[qi].push(v);
-        prev = v;
+      // to any previous intersection.
+      let ignore = false;
+      for (let w of pts) {
+        if (vdist(v, w) < eps) {
+          ignore = true;
+          break;
+        }
+      }
+      if (!ignore) {
+        pts.push(v);
+        ps[pi].push(v);
+        pi = 1 - pi;
+        ps[pi].push(v);
       }
     }
   }
@@ -98,40 +107,18 @@ function cut_poly(r, p) {
   // the first polygon by the end, then
   // the number of intersections is odd.
   // We resort to ignoring the intersections.
-  return qi == 0 ? q : [p, []];
-}
-
-// Compute intersection points
-// between a ray and a polygon.
-function isect_poly(r, p) {
-  let points = [];
-  let eps = 0.001;
-  let prev = null;
-  for (let i = 0; i < p.length; i++) {
-    let j = (i + 1) % p.length;
-    let line = ray(p[i], p[j]);
-    let t = isect_ray(line, r);
-    if (t != null && t >= 0 && t <= 1) {
-      let v = ray_at(t, line);
-      // Ignore if this point is very close
-      // to the previous intersection.
-      if (prev == null || vdist(v, prev) > eps) {
-        points.push(v);
-        prev = v;
-      }
-    }
-  }
-  return points;
+  ps = pi == 0 ? ps : [p];
+  return [pts, ps];
 }
 
 // Compute intersection line
 // of a ray through a polygon
 // or return null.
 function isect_poly_line(r, p) {
-  let ps = isect_poly(r, p);
-  if (ps.length == 0) return null;
-  if (ps.length == 1) return [ps[0], [0, 0]];
-  return ray(ps[0], ps[1]);
+  let pts = cut_poly(r, p)[0];
+  if (pts.length == 0) return null;
+  if (pts.length == 1) return [pts[0], [0, 0]];
+  return ray(pts[0], pts[1]);
 }
 
 // Draw ray section [0, 1] as line.
@@ -279,8 +266,8 @@ function draw() {
   for (let cut of cuts) {
     let n = parts.length;
     for (let i = 0; i < n; i++) {
-      let result = cut_poly(cut, parts[i]);
-      if (result[1].length > 0) {
+      let result = cut_poly(cut, parts[i])[1];
+      if (result.length > 1) {
         parts[i] = result[0];
         parts.push(result[1]);
       }
