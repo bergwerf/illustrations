@@ -7,6 +7,8 @@ redistribute them, please send me an email.
 Showcase
 --------
 
+<center>
+
 <img src="traced/complexity_theory.svg">
 
 <img src="posters/csb/cantor_schroder_bernstein_traced.svg">
@@ -17,4 +19,4 @@ Showcase
 
 <img src="posters/primes/primes_traced.svg">
 
-
+</center>
