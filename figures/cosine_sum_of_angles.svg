@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="127.53474mm"
+   height="179.91943mm"
+   viewBox="0 0 127.53474 179.91943"
    version="1.1"
    id="svg8"
    sodipodi:docname="cosine_sum_of_angles.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    inkscape:export-filename="/home/herman/repos/bergwerf/latex-docs/settheory/hoeksom.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
@@ -29,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1219593"
-     inkscape:cx="317.33931"
-     inkscape:cy="587.66987"
+     inkscape:cx="140.60643"
+     inkscape:cy="340.75947"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,10 +44,17 @@
      inkscape:snap-nodes="true"
      inkscape:bbox-nodes="true"
      inkscape:lockguides="false"
-     inkscape:snap-global="true">
+     inkscape:snap-global="true"
+     inkscape:document-rotation="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
-       id="grid18" />
+       id="grid18"
+       originx="-44.05227"
+       originy="-44.917756" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -59,27 +64,17 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-44.052269,-44.917755)">
     <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       id="rect910"
-       width="127.53474"
-       height="179.91943"
-       x="44.052269"
-       y="44.917755"
-       ry="0"
-       inkscape:export-filename="/home/herman/Pictures/hoeksom.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
-    <rect
-       style="opacity:1;vector-effect:none;fill:#010101;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;vector-effect:none;fill:#010101;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect1699-3"
        width="84.666672"
        height="28.418987"
@@ -97,7 +92,8 @@
        sodipodi:ry="9"
        sodipodi:rx="9"
        sodipodi:cy="170"
-       sodipodi:cx="58.208332" />
+       sodipodi:cx="58.208332"
+       sodipodi:arc-type="arc" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#5756e4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path839"
@@ -109,7 +105,8 @@
        sodipodi:start="5.2620396"
        sodipodi:end="5.809903"
        d="m 62.909836,162.32564 a 9,9 0 0 1 3.309189,3.57207"
-       sodipodi:open="true" />
+       sodipodi:open="true"
+       sodipodi:arc-type="arc" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#f89696;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path80-3"
@@ -121,7 +118,8 @@
        sodipodi:start="1.568761"
        sodipodi:end="2.6815322"
        d="m 116.43499,149.89581 a 9,9 0 0 1 -8.08255,-5.00396"
-       sodipodi:open="true" />
+       sodipodi:open="true"
+       sodipodi:arc-type="arc" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#f89696;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path80"
@@ -133,9 +131,10 @@
        sodipodi:start="4.7122853"
        sodipodi:end="5.8144122"
        sodipodi:open="true"
-       d="m 116.41574,131.89583 a 9,9 0 0 1 8.03004,4.93387" />
+       d="m 116.41574,131.89583 a 9,9 0 0 1 8.03004,4.93387"
+       sodipodi:arc-type="arc" />
     <rect
-       style="opacity:1;vector-effect:none;fill:#ede281;fill-opacity:1;stroke:#0a093b;stroke-width:0.08360656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;vector-effect:none;fill:#ede281;fill-opacity:1;stroke:#0a093b;stroke-width:0.0836066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect841-6"
        width="5.0163937"
        height="5.0163937"
@@ -155,7 +154,8 @@
        sodipodi:start="3.1376274"
        sodipodi:end="4.2532293"
        d="m 133.87507,127.70236 a 9,9 0 0 1 5.01118,-8.10352"
-       sodipodi:open="true" />
+       sodipodi:open="true"
+       sodipodi:arc-type="arc" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#f22121;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path80-7"
@@ -167,27 +167,28 @@
        sodipodi:start="2.6743177"
        sodipodi:end="3.140778"
        d="M 134.83981,131.72074 A 9,9 0 0 1 133.875,127.67398"
-       sodipodi:open="true" />
+       sodipodi:open="true"
+       sodipodi:arc-type="arc" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 58.208333,178 H 142.875"
        id="path1398"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 142.875,170 v 11"
        id="path1251-21"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <rect
-       style="opacity:1;vector-effect:none;fill:#ede281;fill-opacity:1;stroke:#0a093b;stroke-width:0.08360656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;vector-effect:none;fill:#ede281;fill-opacity:1;stroke:#0a093b;stroke-width:0.0836066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect841-61"
        width="5.0163937"
        height="5.0163937"
        x="137.8586"
        y="164.98361" />
     <rect
-       style="opacity:1;vector-effect:none;fill:#ede281;fill-opacity:1;stroke:#0a093b;stroke-width:0.08360656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;vector-effect:none;fill:#ede281;fill-opacity:1;stroke:#0a093b;stroke-width:0.0836066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect841-2"
        width="5.0163937"
        height="5.0163937"
@@ -199,31 +200,31 @@
        id="path1396"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 116.41667,170 v 5"
        id="path1251-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 142.875,170 V 127.66667 H 116.41667"
        id="path28"
        inkscape:connector-curvature="0" />
     <rect
-       style="opacity:1;vector-effect:none;fill:#ede281;fill-opacity:1;stroke:#0a093b;stroke-width:0.08360656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;vector-effect:none;fill:#ede281;fill-opacity:1;stroke:#0a093b;stroke-width:0.0836066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect841"
        width="5.0163937"
        height="5.0163937"
        x="111.40028"
        y="164.98361" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 58.208333,170 v 11"
        id="path1251"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 142.875,170 H 58.208333"
        id="path20"
        inkscape:connector-curvature="0"
@@ -239,48 +240,49 @@
        sodipodi:start="1.1061942"
        sodipodi:end="1.5738175"
        d="m 120.44928,82.796007 a 9,9 0 0 1 -4.0598,0.95396"
-       sodipodi:open="true" />
+       sodipodi:open="true"
+       sodipodi:arc-type="arc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
        d="M 142.875,127.66667 116.41667,74.96598"
        id="path24"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 116.41667,74.96598 V 170"
        id="path26"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26458332, 1.05833327;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
        d="M 123.03125,64.166667 116.41667,74.96598 111.125,64.166667"
        id="path1127"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#01009e;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#01009e;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 58.208333,170 116.47612,74.868914"
        id="path22"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26458332, 1.05833327;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
        d="m 142.875,127.66667 21.16667,-10.58334"
        id="path1129"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.26458332, 1.05833327;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
        d="m 142.875,170 h 21.16667"
        id="path1131"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#bf0000;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#bf0000;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 142.87499,127.66667 -8.03518,4.05407 L 58.208333,170"
        id="path1133"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#01009e;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#01009e;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-59.570091"
        y="136.05534"
        id="text1155"
@@ -291,12 +293,12 @@
          id="tspan1153"
          x="-59.570091"
          y="136.05534"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;baseline-shift:baseline;fill:#01009e;fill-opacity:1;stroke-width:0.26458332">r<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O';baseline-shift:sub;fill:#01009e;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;baseline-shift:baseline;fill:#01009e;fill-opacity:1;stroke-width:0.264583">r<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O';baseline-shift:sub;fill:#01009e;fill-opacity:1"
    id="tspan1157">1</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#bf0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#bf0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="27.16946"
        y="174.73027"
        id="text1155-3"
@@ -307,12 +309,12 @@
          id="tspan1153-4"
          x="27.16946"
          y="174.73027"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;baseline-shift:baseline;fill:#bf0000;fill-opacity:1;stroke-width:0.26458332">r<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O';baseline-shift:sub;fill:#bf0000;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;baseline-shift:baseline;fill:#bf0000;fill-opacity:1;stroke-width:0.264583">r<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O';baseline-shift:sub;fill:#bf0000;fill-opacity:1;stroke-width:0.264583"
    id="tspan1157-6">2</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;fill:#5756e4;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;fill:#5756e4;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="68.086456"
        y="160.15544"
        id="text1187"><tspan
@@ -320,10 +322,10 @@
          id="tspan1185"
          x="68.086456"
          y="160.15544"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';fill:#5756e4;fill-opacity:1;stroke-width:0.26458332">β</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';fill:#5756e4;fill-opacity:1;stroke-width:0.264583">β</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#f22121;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#f22121;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="71.600693"
        y="167.86967"
        id="text1193"><tspan
@@ -331,10 +333,10 @@
          id="tspan1191"
          x="71.600693"
          y="167.86967"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#f22121;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">α</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#f22121;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">α</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#f22121;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#f22121;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="118.16614"
        y="90.606865"
        id="text1193-3"><tspan
@@ -342,9 +344,9 @@
          id="tspan1191-2"
          x="118.16614"
          y="90.606865"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#f22121;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">α</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:MathJax_Math;-inkscape-font-specification:MathJax_Math;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#f22121;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">α</tspan></text>
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.15000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 122.38821,71.980207 -5.97154,2.98577"
        id="path1251-6"
        inkscape:connector-curvature="0"
@@ -355,14 +357,14 @@
        id="path1364"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.15000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#646464;stroke-width:0.15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 148.84653,124.6809 -5.97154,2.98577"
        id="path1251-6-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="95.805496"
        y="180.67239"
        id="text1421"><tspan
@@ -370,14 +372,14 @@
          id="tspan1419"
          x="95.805496"
          y="180.67239"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';stroke-width:0.26458332">r<tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold'"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';stroke-width:0.264583">r<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold'"
    id="tspan1427"><tspan
-   style="font-size:64.99999762%;baseline-shift:sub"
+   style="font-size:65%;baseline-shift:sub"
    id="tspan1439">2 </tspan>cos</tspan> α</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="78.435822"
        y="175.94766"
        id="text1421-0"><tspan
@@ -385,10 +387,10 @@
          id="tspan1419-5"
          x="78.435822"
          y="175.94766"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';stroke-width:0.26458332">r<tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';stroke-width:0.264583">r<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.264583"
    id="tspan1427-0"><tspan
-   style="font-size:2.52236104px;baseline-shift:sub;stroke-width:0.26458332"
+   style="font-size:2.52236px;baseline-shift:sub;stroke-width:0.264583"
    id="tspan1439-4">1 </tspan>cos(</tspan>α <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O'"
    id="tspan1465">+ </tspan>β<tspan
@@ -396,7 +398,7 @@
    id="tspan101">)</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="141.52211"
        y="-76.747162"
        id="text1421-0-6"
@@ -405,13 +407,13 @@
          id="tspan1419-5-8"
          x="141.52211"
          y="-76.747162"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';stroke-width:0.26458332">r<tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';stroke-width:0.264583">r<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.264583"
    id="tspan1427-0-9"><tspan
-   style="font-size:2.52236104px;baseline-shift:sub;stroke-width:0.26458332"
+   style="font-size:2.52236px;baseline-shift:sub;stroke-width:0.264583"
    id="tspan1439-4-5">1 </tspan>sin</tspan> β</tspan></text>
     <rect
-       style="opacity:1;vector-effect:none;fill:#efefef;fill-opacity:1;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;vector-effect:none;fill:#efefef;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect1699"
        width="84.666672"
        height="28.418989"
@@ -425,83 +427,83 @@
          id="text1421-0-2"
          y="193.3714"
          x="54.641792"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';stroke-width:0.264583"
            y="193.3714"
            x="54.641792"
            id="tspan1419-5-1"
            sodipodi:role="line">r<tspan
    id="tspan1427-0-5"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.26458332"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.264583"><tspan
    id="tspan1439-4-9"
-   style="font-size:2.52236104px;baseline-shift:sub;stroke-width:0.26458332">1 </tspan>cos(</tspan>α <tspan
+   style="font-size:2.52236px;baseline-shift:sub;stroke-width:0.264583">1 </tspan>cos(</tspan>α <tspan
    id="tspan1465-9"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O';stroke-width:0.26458332">+ </tspan>β<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O';stroke-width:0.264583">+ </tspan>β<tspan
    id="tspan1523"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold'">) = <tspan
    id="tspan1525"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold'">r</tspan><tspan
    id="tspan1527"
-   style="font-size:64.99999762%;baseline-shift:sub">2</tspan> cos </tspan>α<tspan
+   style="font-size:65%;baseline-shift:sub">2</tspan> cos </tspan>α<tspan
    id="tspan1531"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold'"> − (<tspan
    id="tspan1537"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold'">r</tspan><tspan
    id="tspan1543"
-   style="font-size:64.99999762%;baseline-shift:sub">1</tspan> sin<tspan
+   style="font-size:65%;baseline-shift:sub">1</tspan> sin<tspan
    id="tspan1533"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold'"> β</tspan>) sin </tspan>α </tspan></text>
       <text
          id="text1421-0-2-8"
          y="199.37506"
          x="58.209522"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';stroke-width:0.264583"
            y="199.37506"
            x="58.209522"
            id="tspan1419-5-1-0"
            sodipodi:role="line"><tspan
    id="tspan1427-0-5-4"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.26458332">cos(</tspan>α <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.264583">cos(</tspan>α <tspan
    id="tspan1465-9-7"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O';stroke-width:0.26458332">+ </tspan>β<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O';stroke-width:0.264583">+ </tspan>β<tspan
    id="tspan1523-9"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.26458332">) = (<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.264583">) = (<tspan
    id="tspan1525-7"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';stroke-width:0.26458332">r</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';stroke-width:0.264583">r</tspan><tspan
    id="tspan1527-5"
-   style="font-size:2.52236104px;baseline-shift:sub;stroke-width:0.26458332">2 </tspan>/<tspan
+   style="font-size:2.52236px;baseline-shift:sub;stroke-width:0.264583">2 </tspan>/<tspan
    id="tspan1615"
-   style="font-size:64.99999762%;baseline-shift:sub"> </tspan><tspan
+   style="font-size:65%;baseline-shift:sub"> </tspan><tspan
    id="tspan1609"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold'">r</tspan><tspan
    id="tspan1613"
-   style="font-size:64.99999762%;baseline-shift:sub">1</tspan>) cos </tspan>α<tspan
+   style="font-size:65%;baseline-shift:sub">1</tspan>) cos </tspan>α<tspan
    id="tspan1531-1"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.26458332"> − sin <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.264583"> − sin <tspan
    id="tspan1597"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold'">α</tspan> sin </tspan>β</tspan></text>
       <text
          id="text1421-0-2-8-9"
          y="205.39108"
          x="75.118149"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';stroke-width:0.264583"
            y="205.39108"
            x="75.118149"
            id="tspan1419-5-1-0-7"
            sodipodi:role="line"><tspan
    id="tspan1523-9-0"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.26458332">= cos </tspan>α <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.264583">= cos </tspan>α <tspan
    id="tspan1665"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold'">cos</tspan> β<tspan
    id="tspan1531-1-0"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.26458332"> − sin <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linux Libertine Display O';-inkscape-font-specification:'Linux Libertine Display O Bold';stroke-width:0.264583"> − sin <tspan
    id="tspan1597-6"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';stroke-width:0.26458332">α</tspan> sin </tspan>β</tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:MathJax_Math;-inkscape-font-specification:'MathJax_Math Bold';stroke-width:0.264583">α</tspan> sin </tspan>β</tspan></text>
     </g>
   </g>
 </svg>
